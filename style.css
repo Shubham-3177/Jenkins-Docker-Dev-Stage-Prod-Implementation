@@ -1,0 +1,280 @@
+.header
+{
+    width: 100.8%;
+    height: 80px;
+    margin: -8px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.logo img
+{
+ margin: 20px 0px 0px 50px;
+}
+.flex-nav ol
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 0px 0px 750px;
+}
+.nav ol a
+{
+ list-style-type: none;
+ text-decoration: none;
+ color: #014392;
+ font-size: 18px;
+ font-family: sans-serif;
+ font-weight: initial;
+}
+
+/*---------------------------------------------End Of Header----------------------------------------------------*/
+
+.container1 
+{ 
+    width: 100.8%;
+    height: 850px;
+    margin: 0px 0px 0px -8px;
+}
+.container1 img
+{ 
+    width: 100.8%;
+    height: 850px;
+    margin: 0px 0px 0px -8px;
+}
+.text1
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #014392;
+    font-size: 35px;
+    text-align: center;
+    margin-top: -770px;
+}
+.text2
+{
+    font-family: sans-serif;
+    font-weight: initial;
+    color: #014392;
+    font-size: 21px;
+    text-align: center;
+    margin-top: 25px;
+}
+.btn1 button
+{
+    padding: 15px 5px 5px 0px;
+    border-radius: 10px;
+    margin: 30px 0px 0px 750px;
+}
+.btn1 img
+{
+    height: 30px;
+    width: 30px;
+    margin: -7px 0px -7px -110px;
+    border: none;
+}
+.text3
+{
+    margin: -32px 0px 0px 50px;
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+}
+.text4
+{
+    margin: 0px 0px 0px 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+}
+.btn2 button
+{
+    padding: 15px 5px 5px 20px;
+    border-radius: 10px;
+    margin: 8px 0px 0px 750px;
+}
+.btn2 img
+{
+    height: 30px;
+    width: 30px;
+    margin: -7px 0px -7px -110px;
+    border: none;
+}
+.text5
+{
+    margin: -30px 0px 0px 0px;
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+}
+.code img
+{ 
+    border: none;
+    height: 100px;
+    width: 100px;
+    margin: -110px 0px 200px 630px;
+}
+.container2
+{
+    border: solid 2px whitesmoke;
+    width: 100.8%;
+    height: 160px;
+    margin: 0px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.text6
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #014392;
+    margin-top: 40px;
+}
+.container3
+{
+    border: solid 2px whitesmoke;
+    width: 100.8%;
+    height: 800px;
+    margin: 0px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.flex-mob
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 150px 0px 150px;
+}
+.mob-1 img
+{
+    height: 450px;
+    width: 250px;
+}
+.mob-2 img
+{
+    height: 450px;
+    width: 300px;
+}
+.mob-3 img
+{
+    height: 450px;
+    width: 250px;
+}
+.btn3 button 
+{
+  padding: 20px 25px 20px 25px;
+  font-size: 18px;
+  border-radius: 13px;
+  background-color:  #0d5fc4;
+  color: white;
+  margin: 20px 0px 0px 5px;
+}
+.btn3 button:hover
+{
+    background-color: #014392;
+}
+.btn6 button 
+{
+  padding: 20px 25px 20px 25px;
+  font-size: 18px;
+  border-radius: 13px;
+  background-color:  #0d5fc4;
+  color: white;
+  margin: 20px 0px 0px 45px;
+}
+.btn6 button:hover
+{
+    background-color: #014392;
+}
+.btn7 button 
+{
+  padding: 20px 25px 20px 25px;
+  font-size: 18px;
+  border-radius: 13px;
+  background-color:  #0d5fc4;
+  color: white;
+  margin: 20px 0px 0px 20px;
+}
+.btn7 button:hover
+{
+    background-color: #014392;
+}
+.icons img
+{
+    margin: 20px 0px 0px 30px;
+    width: 1400px;
+}
+.conatiner4
+{
+    width: 100%;
+    height:100px;
+}
+.container5
+{
+    width: 100.8%;
+    height: 600px;
+    margin: -8px 0px 0px -8px;
+}
+.container5 img
+{
+    width: 100.8%;
+    height: 600px;
+    margin: -8px 0px 0px -8px;
+}
+
+/*----------------------------------------FOOTER----------------------------*/
+
+.footer
+{
+    width: 100.8%;
+    height: 200px;
+    margin: 15px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.f-logo img
+{
+    margin: 60px 0px 0px 100px;
+}
+.text8
+{
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 100px;
+}
+.flex-footer ol 
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 600px 0px 400px;
+}
+.f1 ol a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+
+}
+.f1 ol a:hover
+{
+    text-decoration: underline;
+}
+.social img
+{
+    margin: 10px -570px 0px 600px;
+}
+.text9
+{
+    color: rgb(99, 97, 97);
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: -40px 0px 0px 550px;
+    font-size: 35px;
+}
+.text10
+{
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+    margin: -85px 0px 0px 1100px;
+    font-size: 17px;
+}

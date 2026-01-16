@@ -1,0 +1,453 @@
+.header
+{
+    width: 101%;
+    height: 80px;
+    margin: -8px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.logo img
+{
+ margin: 20px 0px 0px 50px;
+}
+.flex-nav ol
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 0px 0px 750px;
+}
+.nav ol a
+{
+ list-style-type: none;
+ text-decoration: none;
+ color: #014392;
+ font-size: 18px;
+ font-family: sans-serif;
+ font-weight: initial;
+}
+
+/*---------------------------------------------End Of Header----------------------------------------------------*/
+
+.container1 
+{
+    width: 100.8%;
+    height: 700px;
+    margin: 0px 0px 0px -8px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.container1 img
+{
+    width: 100.8%;
+    height: 700px;
+    margin: 0px 0px 0px -8px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.text1
+{
+    font-weight: bolder;
+    font-size: 65px;
+    color: white;
+    margin: -500px 0px 0px 530px;
+}
+.text2
+{
+    font-weight: initial;
+    font-size: 20px;
+    color: white;
+    margin: 35px 0px 0px 0px;
+    text-align: center;
+}
+.text3
+{
+    font-weight: initial;
+    font-size: 20px;
+    color: white;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+.text4
+{
+    font-weight: initial;
+    font-size: 20px;
+    color: white;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+.btn1 button
+{
+    padding: 15px 5px 5px 0px;
+    border-radius: 10px;
+    margin: 30px 0px 0px 750px;
+}
+.btn1 img
+{
+    height: 30px;
+    width: 30px;
+    margin: -7px 0px -7px -110px;
+    border: none;
+}
+.text5
+{
+    margin: -32px 0px 0px 50px;
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+}
+.text6
+{
+    margin: 0px 0px 0px 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+}
+.btn2 button
+{
+    padding: 15px 5px 5px 20px;
+    border-radius: 10px;
+    margin: -52px 0px 500px 560px;
+    position: absolute;
+}
+.btn2 img
+{
+    height: 30px;
+    width: 30px;
+    margin: -7px 0px -7px -110px;
+    border: none;
+}
+.text7
+{
+    margin: -30px 0px 0px 0px;
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+}
+.container2
+{
+ 
+    height: 670px;
+    width: 100%;
+}
+.img1 img
+{
+    height: 60px;
+    width: 60px;
+    margin: 100px 0px 0px 100px;
+}
+h1
+{
+    margin: 10px 0px 0px 100px;
+    font-size: 45px;
+}
+.original
+{
+    font-size: 20px;
+    font-weight: initial;
+    margin: 0px 0px 0px 100px;
+    color: rgb(79, 75, 75);
+}
+
+.img2
+{
+  margin: -150px 0px 0px 220px;
+}
+.img2 img
+{
+    height: 60px;
+    width: 60px;
+    margin: 0px 0px 0px 100px;
+}
+ h1
+{
+    margin: 10px 0px 0px 100px;
+    font-size: 45px;
+}
+.img2 .original
+{
+    font-size: 20px;
+    font-weight: initial;
+    margin: 5px 0px 0px 100px;
+    color: rgb(79, 75, 75);
+}
+
+.img3
+{
+  margin: 100px 0px 0px 0px;
+}
+.img3 img
+{
+    height: 60px;
+    width: 60px;
+    margin: 0px 0px 0px 100px;
+}
+ h1
+{
+    margin: 10px 0px 0px 100px;
+    font-size: 45px;
+}
+.img3 .original
+{
+    font-size: 20px;
+    font-weight: initial;
+    margin: 5px 0px 0px 100px;
+    color: rgb(79, 75, 75);
+}
+
+.img4
+{
+  margin: -150px 0px 0px 220px;
+}
+.img4 img
+{
+    height: 60px;
+    width: 60px;
+    margin: 0px 0px 0px 100px;
+}
+ h1
+{
+    margin: 10px 0px 0px 100px;
+    font-size: 45px;
+}
+.img4 .original
+{
+    font-size: 20px;
+    font-weight: initial;
+    margin: 5px 0px 0px 100px;
+    color: rgb(79, 75, 75);
+}
+.games-bg img
+{
+    height: 650px;
+    width: 700px;
+    margin: -490px 0px 0px 550px;
+}
+.container3
+{
+    width: 100%;
+    height: 100px;
+}
+.text8
+{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 37px;
+    text-align: center;
+}
+.text9
+{
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(51, 48, 48);
+}
+.container4
+{
+    width: 100%;
+    height: 500px;
+}
+.flex-box
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 120px 100px 0px 100px;
+}
+.box1
+{
+    border: solid 2px whitesmoke;
+    width: 270px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    box-shadow: 0px 10px 5px gray;
+}
+.box1 img
+{
+    height: 260px;
+    width: 260px;
+    margin: -100px 0px 0px 10px;
+}
+.text10
+{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -22px;
+}
+.text11
+{
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(51, 48, 48);
+}
+.container5
+{
+    border: solid 2px white;
+    height: 600px;
+    width: 100%;
+    margin-top: 70px;
+}
+.b1
+{
+    height: 550px;
+    width: 45%;
+    margin: 20px 0px 0px 90px; 
+}
+.blizz img
+{
+    height: 150px;
+    width: 250px;
+    margin-left: 27%;
+}
+.text12
+{
+    font-size: 28px;
+    font-weight: bold;
+    margin: 25px 0px 0px 250px;
+}
+.text13
+{
+    font-size: 18px;
+    font-weight: initial;
+    margin: 10px 0px 0px 30px;
+    color: rgb(51, 48, 48);
+}
+.text14
+{
+    font-size: 18px;
+    font-weight: initial;
+    margin: 10px 0px 0px 280px;
+    color: rgb(51, 48, 48);
+}
+.text15
+{
+    font-size: 28px;
+    font-weight: bold;
+    margin: 25px 0px 0px 200px;
+}
+.text16
+{
+    font-size: 18px;
+    font-weight: initial;
+    margin: 15px 0px 0px 220px;
+    color: rgb(51, 48, 48);
+}
+.games img
+{
+  height: 55px;
+  width: 55px;
+}
+.games
+{
+    margin: 15px 0px 0px 220px;
+}
+.b2 img
+{
+    height: 630px;
+    width: 370px;
+    margin: -565px 0px 0px 800px;
+}
+.container6
+{
+    border: solid 2px rgb(236, 247, 252);
+    height: 600px;
+    width: 100%;
+    margin-top: 30px;
+    background-color: rgb(236, 247, 252);
+}
+.b3 img
+{
+    height: 630px;
+    width: 370px;
+    margin: 7px 0px 0px 200px;
+}
+.b4
+{
+    height: 550px;
+    width: 45%;
+    margin: -600px 0px 0px 600px; 
+}
+.container7 img
+{
+    height: 500px;
+    width: 1200px;
+    margin: 50px 0px 0px 150px;
+    border-radius: 75px;
+}
+.container8
+{
+    margin-top: 40px;
+    height: 100px;
+    width: 100%;
+}
+.icons img
+{
+    margin: -50px 0px 0px 30px;
+    width: 1400px;
+}
+
+
+/*----------------------------------------FOOTER----------------------------*/
+ 
+.footer
+{
+    width: 100.8%;
+    height: 200px;
+    margin: 80px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.f-logo img
+{
+    margin: 60px 0px 0px 100px;
+}
+.text24
+{
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 100px;
+}
+.flex-footer ol 
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 600px 0px 400px;
+}
+.f1 ol a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+
+}
+.f1 ol a:hover
+{
+    text-decoration: underline;
+}
+.social img
+{
+    margin: 10px -570px 0px 600px;
+}
+.text22
+{
+    color: rgb(99, 97, 97);
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: -40px 0px 0px 550px;
+    font-size: 35px;
+}
+.text23
+{
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+    margin: -85px 0px 0px 1100px;
+    font-size: 17px;
+} 

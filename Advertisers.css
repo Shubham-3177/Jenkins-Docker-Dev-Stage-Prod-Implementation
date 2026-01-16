@@ -1,0 +1,250 @@
+.header
+{
+    width: 101%;
+    height: 80px;
+    margin: -8px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.logo img
+{
+ margin: 20px 0px 0px 50px;
+}
+.flex-nav ol
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 0px 0px 750px;
+}
+.nav ol a
+{
+ list-style-type: none;
+ text-decoration: none;
+ color: #014392;
+ font-size: 18px;
+ font-family: sans-serif;
+ font-weight: initial;
+}
+
+/*---------------------------------------------End Of Header----------------------------------------------------*/
+
+.main-container img
+{
+    height: 800px;
+    width: 100.8%;
+    margin: 0px 0px 0px -8px;
+    background-color: #0693e3;
+    position: relative;
+}
+.form
+{
+    height: 750px;
+    width: 550px;
+    margin: -790px 0px 0px 475px;
+    position: absolute;
+}
+.text1
+{
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+.text2
+{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+.input1
+{
+    margin-left: 10px;
+}
+.input1 input
+{
+   border-radius: 30px;
+   padding: 12px 0px 12px 10px;
+   border: none;
+   margin-top: 5px;
+}
+.input1 input::placeholder
+{
+    font-size: 17px;
+}
+.input1 label
+{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 15px;
+}
+
+.input2
+{
+  margin: -70px 0px 0px 280px;
+}
+.input2 input
+{
+   border-radius: 30px;
+   padding: 12px 0px 12px 10px;
+   border: none;
+   margin-top: 5px;
+}
+.input2 input::placeholder
+{
+    font-size: 17px;
+}
+.input2 label
+{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 15px;
+}
+
+.input3
+{
+  margin: 15px 0px 0px 10px;
+}
+.input3 input
+{
+   border-radius: 30px;
+   padding: 12px 0px 12px 10px;
+   border: none;
+   margin-top: 5px;
+}
+.input3 input::placeholder
+{
+    font-size: 17px;
+}
+.input3 label
+{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 15px;
+}
+
+.input4
+{
+  margin: 15px 0px 0px 10px;
+}
+.input4 input
+{
+   border-radius: 30px;
+   padding: 12px 0px 12px 10px;
+   border: none;
+   margin-top: 5px;
+}
+.input4 input::placeholder
+{
+    font-size: 17px;
+}
+.input4 label
+{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 15px;
+}
+input[type=radio]
+{    
+    width: 100%;
+    height: 2em;
+    margin: 20px 0px 0px -200px;
+}
+.radio label
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    margin: 0px 0px 0px -250px;
+}
+input[type=radio1]
+{    
+    width: 100%;
+    height: 2em;
+    margin: 10px 0px 0px -200px;
+}
+.radio1 label
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    margin: -200px 0px 0px -250px;
+}
+.btn button
+{
+    padding: 20px 80px 20px 80px;
+    margin: 25px 0px 0px 140px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    box-shadow: 0px 0px 20px rgb(6, 6, 186);
+    color: #0a85cc;
+}
+
+
+
+/*----------------------------------------FOOTER----------------------------*/
+ 
+.footer
+{
+    width: 100.8%;
+    height: 200px;
+    margin: -8px 0px 0px -8px;
+    background-color: whitesmoke;
+}
+.f-logo img
+{
+    margin: 60px 0px 0px 100px;
+}
+.text24
+{
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 100px;
+}
+.flex-footer ol 
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 600px 0px 400px;
+}
+.f1 ol a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+
+}
+.f1 ol a:hover
+{
+    text-decoration: underline;
+}
+.social img
+{
+    margin: 10px -570px 0px 600px;
+}
+.text22
+{
+    color: rgb(99, 97, 97);
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: -40px 0px 0px 550px;
+    font-size: 35px;
+}
+.text23
+{
+    color: rgb(99, 97, 97);
+    font-weight: initial;
+    font-family: sans-serif;
+    margin: -85px 0px 0px 1100px;
+    font-size: 17px;
+} 
