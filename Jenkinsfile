@@ -10,14 +10,6 @@ pipeline {
 
     stages {
 
-        stage('Build Docker Image') {
-            steps {
-                sh """
-                docker build -t ${APP_NAME}:${BRANCH_NAME} .
-                """
-            }
-        }
-
         stage('Deploy') {
             steps {
                 script {
@@ -38,7 +30,12 @@ pipeline {
 
 def deploy(server, port) {
     sh """
-    ssh -o StrictHostKeyChecking=no ${server} '
+    ssh -o StrictHostKeyChecking=no ec2-user@${server} '
+      cd /home/ec2-user
+      rm -rf app || true
+      git clone https://github.com/Shubham-3177/Jenkins-Docker-Dev-Stage-Prod-Implementation.git app
+      cd app
+      docker build -t ${APP_NAME}:${BRANCH_NAME} .
       docker rm -f ${APP_NAME} || true
       docker run -d -p ${port}:80 --name ${APP_NAME} ${APP_NAME}:${BRANCH_NAME}
     '
