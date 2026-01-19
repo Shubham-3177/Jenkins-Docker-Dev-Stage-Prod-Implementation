@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     environment {
-        DEV_SERVER   = "3.106.214.26"
-        STAGE_SERVER = "3.24.123.30"
-        PROD_SERVER  = "3.107.69.57"
+        DEV_SERVER   = "13.239.244.37"
+        STAGE_SERVER = "15.134.141.111"
+        PROD_SERVER  = "54.252.66.69"
         APP_NAME = "myapp"
     }
 
